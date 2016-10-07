@@ -1,2 +1,2 @@
-# Lua-WebPlayer-Demo
+# LuPlayer Demo
 A uhttpd with Lua web player demo
